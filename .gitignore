@@ -145,3 +145,6 @@ pip-selfcheck.json
 # End of https://www.gitignore.io/api/venv
 
 .vscode
+/data/
+/ImageNet/img/
+/ImageNet/urllist.txt
